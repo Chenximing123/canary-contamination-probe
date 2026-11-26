@@ -47,10 +47,10 @@ saw.
 ## Rendering and perturbations
 
 Nine renderings are defined in `pilot_contamination.py` (`FORMS`): the original plus
-eight perturbations, grouped into a question-level family (`rename`, `paraphrase`,
-`table`, `distractor`) and an evidence-level family (`perm`, `rrename`, `both`), with
-`swap` (row reversal) reported as a single form. `distractor` is excluded from both
-family statistics because it changes difficulty rather than only the surface.
+eight perturbations. Six of them form the two measured families — question-level
+(`rename`, `paraphrase`, `table`) and evidence-level (`perm`, `rrename`, `both`) —
+while `swap` (row reversal, reported on its own) and `distractor` (difficulty
+control, excluded from both family statistics) are single forms.
 
 Every form is checked on disk by `validate_forms.py`: the multiset of (label, value)
 facts is preserved in all items, the answer never appears as a numeric token, and all

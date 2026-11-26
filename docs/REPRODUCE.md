@@ -21,9 +21,9 @@ needed (standard library only).
 | Table III | worked example | `experiment/data/v3/canary_items.json` (item with answer 1140), rendered by `pilot_contamination.render` |
 | Table IV | dose-response | `contam_dr_e5.jsonl`, `contam_dr_e12.jsonl`, `contam_dr_e30.jsonl`, `contam_qwencontam4b.jsonl` (60 epochs) |
 | Table V | baseline accuracy | hard suite: `contam_qwenbase2.jsonl`, `contam_qwen3b.jsonl`, `contam_qwen7b.jsonl`; easy suite: `contam_b15_v3.jsonl`, `contam_b3b_v3.jsonl`, `contam_b7b_v3.jsonl` |
-| Fig. 2 | permutation drop across seven trainings | `contam_seed1.jsonl`, `contam_seed2.jsonl`, `contam_seed3.jsonl`, `contam_3b_v3_contam.jsonl`, `contam_3b_v3_s11.jsonl`, `contam_3b_v3_s22.jsonl`, `contam_3b_v3_s33.jsonl` |
+| Fig. 1 | permutation drop across seven trainings | `contam_seed1.jsonl`, `contam_seed2.jsonl`, `contam_seed3.jsonl`, `contam_3b_v3_contam.jsonl`, `contam_3b_v3_s11.jsonl`, `contam_3b_v3_s22.jsonl`, `contam_3b_v3_s33.jsonl` |
 
-`figures/variance.png` (paper Fig. 2) and `figures/dose_response.png` are produced
+`figures/variance.png` (paper Fig. 1) and `figures/dose_response.png` are produced
 by `plot_figs.py`; the paper reports the dose experiment as Table IV and uses only
 the variance figure.
 
