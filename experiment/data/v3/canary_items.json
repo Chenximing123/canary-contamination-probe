@@ -1,0 +1,3018 @@
+{
+  "seed": 20270101,
+  "rows": 4,
+  "op": "sum",
+  "items": [
+    {
+      "iid": "c000",
+      "entity": "Keptas-25",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Dro5",
+          "sales": 450
+        },
+        {
+          "region": "Kep2",
+          "sales": 740
+        },
+        {
+          "region": "Tas7",
+          "sales": 730
+        },
+        {
+          "region": "Sim3",
+          "sales": 410
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "1140",
+      "template": 0
+    },
+    {
+      "iid": "c001",
+      "entity": "Mivtas-45",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Kep3",
+          "sales": 370
+        },
+        {
+          "region": "Miv4",
+          "sales": 390
+        },
+        {
+          "region": "Vun4",
+          "sales": 220
+        },
+        {
+          "region": "Zor8",
+          "sales": 770
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1160",
+      "template": 0
+    },
+    {
+      "iid": "c002",
+      "entity": "Zorvun-24",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Len6",
+          "sales": 250
+        },
+        {
+          "region": "Zor5",
+          "sales": 490
+        },
+        {
+          "region": "Qua4",
+          "sales": 160
+        },
+        {
+          "region": "Tas3",
+          "sales": 180
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "650",
+      "template": 0
+    },
+    {
+      "iid": "c003",
+      "entity": "Simdro-75",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Vun2",
+          "sales": 830
+        },
+        {
+          "region": "Dro3",
+          "sales": 390
+        },
+        {
+          "region": "Qua5",
+          "sales": 220
+        },
+        {
+          "region": "Sim2",
+          "sales": 620
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1010",
+      "template": 1
+    },
+    {
+      "iid": "c004",
+      "entity": "Quabrac-79",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Vun6",
+          "sales": 510
+        },
+        {
+          "region": "Zor5",
+          "sales": 800
+        },
+        {
+          "region": "Miv9",
+          "sales": 160
+        },
+        {
+          "region": "Len6",
+          "sales": 670
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1310",
+      "template": 0
+    },
+    {
+      "iid": "c005",
+      "entity": "Simdro-21",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Kep5",
+          "sales": 540
+        },
+        {
+          "region": "Kep2",
+          "sales": 610
+        },
+        {
+          "region": "Kep6",
+          "sales": 420
+        },
+        {
+          "region": "Zor9",
+          "sales": 560
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1150",
+      "template": 1
+    },
+    {
+      "iid": "c006",
+      "entity": "Quatas-61",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Qua2",
+          "sales": 820
+        },
+        {
+          "region": "Brac3",
+          "sales": 320
+        },
+        {
+          "region": "Qua9",
+          "sales": 120
+        },
+        {
+          "region": "Dro8",
+          "sales": 760
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "940",
+      "template": 1
+    },
+    {
+      "iid": "c007",
+      "entity": "Vunsim-97",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Qua5",
+          "sales": 260
+        },
+        {
+          "region": "Tas9",
+          "sales": 720
+        },
+        {
+          "region": "Kep8",
+          "sales": 670
+        },
+        {
+          "region": "Dro9",
+          "sales": 550
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "1220",
+      "template": 0
+    },
+    {
+      "iid": "c008",
+      "entity": "Simlen-84",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Miv2",
+          "sales": 180
+        },
+        {
+          "region": "Sim9",
+          "sales": 250
+        },
+        {
+          "region": "Vun2",
+          "sales": 770
+        },
+        {
+          "region": "Brac5",
+          "sales": 840
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "1610",
+      "template": 1
+    },
+    {
+      "iid": "c009",
+      "entity": "Mivzor-67",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Kep7",
+          "sales": 520
+        },
+        {
+          "region": "Vun4",
+          "sales": 360
+        },
+        {
+          "region": "Qua6",
+          "sales": 880
+        },
+        {
+          "region": "Sim3",
+          "sales": 700
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1240",
+      "template": 1
+    },
+    {
+      "iid": "c010",
+      "entity": "Kepvun-80",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Dro8",
+          "sales": 340
+        },
+        {
+          "region": "Miv7",
+          "sales": 160
+        },
+        {
+          "region": "Qua8",
+          "sales": 220
+        },
+        {
+          "region": "Qua7",
+          "sales": 120
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "560",
+      "template": 1
+    },
+    {
+      "iid": "c011",
+      "entity": "Kepdro-58",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Zor2",
+          "sales": 480
+        },
+        {
+          "region": "Dro6",
+          "sales": 250
+        },
+        {
+          "region": "Dro3",
+          "sales": 520
+        },
+        {
+          "region": "Brac5",
+          "sales": 730
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1000",
+      "template": 0
+    },
+    {
+      "iid": "c012",
+      "entity": "Zorlen-92",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Brac5",
+          "sales": 330
+        },
+        {
+          "region": "Dro6",
+          "sales": 310
+        },
+        {
+          "region": "Kep3",
+          "sales": 470
+        },
+        {
+          "region": "Tas6",
+          "sales": 370
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "800",
+      "template": 1
+    },
+    {
+      "iid": "c013",
+      "entity": "Mivdro-30",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Dro7",
+          "sales": 820
+        },
+        {
+          "region": "Tas3",
+          "sales": 560
+        },
+        {
+          "region": "Zor9",
+          "sales": 760
+        },
+        {
+          "region": "Zor7",
+          "sales": 510
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1070",
+      "template": 1
+    },
+    {
+      "iid": "c014",
+      "entity": "Quatas-10",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Kep2",
+          "sales": 240
+        },
+        {
+          "region": "Len7",
+          "sales": 130
+        },
+        {
+          "region": "Tas2",
+          "sales": 570
+        },
+        {
+          "region": "Kep3",
+          "sales": 430
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "370",
+      "template": 0
+    },
+    {
+      "iid": "c015",
+      "entity": "Drobrac-12",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Zor9",
+          "sales": 530
+        },
+        {
+          "region": "Brac5",
+          "sales": 430
+        },
+        {
+          "region": "Len7",
+          "sales": 430
+        },
+        {
+          "region": "Vun5",
+          "sales": 390
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "960",
+      "template": 1
+    },
+    {
+      "iid": "c016",
+      "entity": "Taskep-50",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Vun5",
+          "sales": 350
+        },
+        {
+          "region": "Kep4",
+          "sales": 770
+        },
+        {
+          "region": "Len4",
+          "sales": 760
+        },
+        {
+          "region": "Tas4",
+          "sales": 840
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "1600",
+      "template": 1
+    },
+    {
+      "iid": "c017",
+      "entity": "Taskep-43",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Sim6",
+          "sales": 670
+        },
+        {
+          "region": "Miv3",
+          "sales": 120
+        },
+        {
+          "region": "Vun7",
+          "sales": 580
+        },
+        {
+          "region": "Tas2",
+          "sales": 610
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "1280",
+      "template": 1
+    },
+    {
+      "iid": "c018",
+      "entity": "Vunqua-48",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Qua9",
+          "sales": 310
+        },
+        {
+          "region": "Miv5",
+          "sales": 810
+        },
+        {
+          "region": "Len8",
+          "sales": 740
+        },
+        {
+          "region": "Tas6",
+          "sales": 180
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "490",
+      "template": 0
+    },
+    {
+      "iid": "c019",
+      "entity": "Drosim-47",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Len6",
+          "sales": 670
+        },
+        {
+          "region": "Zor5",
+          "sales": 320
+        },
+        {
+          "region": "Dro4",
+          "sales": 240
+        },
+        {
+          "region": "Miv8",
+          "sales": 610
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "990",
+      "template": 1
+    },
+    {
+      "iid": "c020",
+      "entity": "Kepmiv-23",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Len8",
+          "sales": 690
+        },
+        {
+          "region": "Kep3",
+          "sales": 750
+        },
+        {
+          "region": "Sim3",
+          "sales": 300
+        },
+        {
+          "region": "Tas7",
+          "sales": 770
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1050",
+      "template": 1
+    },
+    {
+      "iid": "c021",
+      "entity": "Simlen-19",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Len6",
+          "sales": 750
+        },
+        {
+          "region": "Brac9",
+          "sales": 810
+        },
+        {
+          "region": "Sim4",
+          "sales": 140
+        },
+        {
+          "region": "Dro5",
+          "sales": 590
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "890",
+      "template": 1
+    },
+    {
+      "iid": "c022",
+      "entity": "Bracvun-54",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Tas8",
+          "sales": 560
+        },
+        {
+          "region": "Dro8",
+          "sales": 520
+        },
+        {
+          "region": "Kep9",
+          "sales": 580
+        },
+        {
+          "region": "Vun5",
+          "sales": 590
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1080",
+      "template": 1
+    },
+    {
+      "iid": "c023",
+      "entity": "Tasdro-70",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Vun9",
+          "sales": 540
+        },
+        {
+          "region": "Dro9",
+          "sales": 830
+        },
+        {
+          "region": "Brac2",
+          "sales": 840
+        },
+        {
+          "region": "Kep7",
+          "sales": 150
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "690",
+      "template": 1
+    },
+    {
+      "iid": "c024",
+      "entity": "Quaqua-82",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Dro7",
+          "sales": 490
+        },
+        {
+          "region": "Tas9",
+          "sales": 150
+        },
+        {
+          "region": "Dro8",
+          "sales": 190
+        },
+        {
+          "region": "Brac8",
+          "sales": 160
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "350",
+      "template": 0
+    },
+    {
+      "iid": "c025",
+      "entity": "Lenkep-16",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Sim7",
+          "sales": 640
+        },
+        {
+          "region": "Kep4",
+          "sales": 290
+        },
+        {
+          "region": "Miv9",
+          "sales": 520
+        },
+        {
+          "region": "Dro2",
+          "sales": 240
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1160",
+      "template": 0
+    },
+    {
+      "iid": "c026",
+      "entity": "Zormiv-78",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Sim8",
+          "sales": 650
+        },
+        {
+          "region": "Tas6",
+          "sales": 300
+        },
+        {
+          "region": "Zor4",
+          "sales": 210
+        },
+        {
+          "region": "Qua8",
+          "sales": 810
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "950",
+      "template": 1
+    },
+    {
+      "iid": "c027",
+      "entity": "Vunlen-53",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Qua4",
+          "sales": 180
+        },
+        {
+          "region": "Brac6",
+          "sales": 540
+        },
+        {
+          "region": "Tas4",
+          "sales": 820
+        },
+        {
+          "region": "Dro6",
+          "sales": 790
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "720",
+      "template": 0
+    },
+    {
+      "iid": "c028",
+      "entity": "Simqua-55",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Dro6",
+          "sales": 620
+        },
+        {
+          "region": "Miv2",
+          "sales": 230
+        },
+        {
+          "region": "Tas8",
+          "sales": 710
+        },
+        {
+          "region": "Vun4",
+          "sales": 520
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1330",
+      "template": 0
+    },
+    {
+      "iid": "c029",
+      "entity": "Braclen-20",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Tas5",
+          "sales": 680
+        },
+        {
+          "region": "Zor4",
+          "sales": 330
+        },
+        {
+          "region": "Len6",
+          "sales": 320
+        },
+        {
+          "region": "Zor5",
+          "sales": 400
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1010",
+      "template": 0
+    },
+    {
+      "iid": "c030",
+      "entity": "Tasdro-17",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Kep3",
+          "sales": 350
+        },
+        {
+          "region": "Dro5",
+          "sales": 610
+        },
+        {
+          "region": "Vun7",
+          "sales": 240
+        },
+        {
+          "region": "Len4",
+          "sales": 630
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "590",
+      "template": 1
+    },
+    {
+      "iid": "c031",
+      "entity": "Zorkep-62",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Zor4",
+          "sales": 770
+        },
+        {
+          "region": "Vun7",
+          "sales": 130
+        },
+        {
+          "region": "Kep5",
+          "sales": 320
+        },
+        {
+          "region": "Qua2",
+          "sales": 360
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1090",
+      "template": 0
+    },
+    {
+      "iid": "c032",
+      "entity": "Bractas-74",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Sim3",
+          "sales": 420
+        },
+        {
+          "region": "Tas5",
+          "sales": 610
+        },
+        {
+          "region": "Qua6",
+          "sales": 660
+        },
+        {
+          "region": "Qua9",
+          "sales": 680
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1030",
+      "template": 1
+    },
+    {
+      "iid": "c033",
+      "entity": "Quatas-63",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Qua6",
+          "sales": 800
+        },
+        {
+          "region": "Qua3",
+          "sales": 760
+        },
+        {
+          "region": "Qua9",
+          "sales": 850
+        },
+        {
+          "region": "Brac4",
+          "sales": 550
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1610",
+      "template": 0
+    },
+    {
+      "iid": "c034",
+      "entity": "Simmiv-38",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Brac3",
+          "sales": 270
+        },
+        {
+          "region": "Dro6",
+          "sales": 530
+        },
+        {
+          "region": "Qua5",
+          "sales": 380
+        },
+        {
+          "region": "Kep5",
+          "sales": 400
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "930",
+      "template": 0
+    },
+    {
+      "iid": "c035",
+      "entity": "Vuntas-67",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Miv3",
+          "sales": 880
+        },
+        {
+          "region": "Brac8",
+          "sales": 180
+        },
+        {
+          "region": "Kep3",
+          "sales": 600
+        },
+        {
+          "region": "Zor2",
+          "sales": 880
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1060",
+      "template": 0
+    },
+    {
+      "iid": "c036",
+      "entity": "Keplen-56",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Vun4",
+          "sales": 220
+        },
+        {
+          "region": "Brac5",
+          "sales": 690
+        },
+        {
+          "region": "Miv6",
+          "sales": 620
+        },
+        {
+          "region": "Zor6",
+          "sales": 320
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "910",
+      "template": 1
+    },
+    {
+      "iid": "c037",
+      "entity": "Zortas-67",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Vun6",
+          "sales": 350
+        },
+        {
+          "region": "Kep2",
+          "sales": 670
+        },
+        {
+          "region": "Tas9",
+          "sales": 330
+        },
+        {
+          "region": "Miv2",
+          "sales": 690
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1020",
+      "template": 0
+    },
+    {
+      "iid": "c038",
+      "entity": "Quaqua-33",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Vun4",
+          "sales": 850
+        },
+        {
+          "region": "Sim4",
+          "sales": 180
+        },
+        {
+          "region": "Brac6",
+          "sales": 330
+        },
+        {
+          "region": "Kep6",
+          "sales": 410
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "510",
+      "template": 0
+    },
+    {
+      "iid": "c039",
+      "entity": "Bracmiv-75",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Tas7",
+          "sales": 780
+        },
+        {
+          "region": "Vun5",
+          "sales": 720
+        },
+        {
+          "region": "Kep4",
+          "sales": 360
+        },
+        {
+          "region": "Tas6",
+          "sales": 860
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1500",
+      "template": 1
+    },
+    {
+      "iid": "c040",
+      "entity": "Kepzor-54",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Tas9",
+          "sales": 480
+        },
+        {
+          "region": "Qua3",
+          "sales": 600
+        },
+        {
+          "region": "Zor6",
+          "sales": 860
+        },
+        {
+          "region": "Miv2",
+          "sales": 540
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1460",
+      "template": 1
+    },
+    {
+      "iid": "c041",
+      "entity": "Vunzor-22",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Qua5",
+          "sales": 610
+        },
+        {
+          "region": "Brac3",
+          "sales": 400
+        },
+        {
+          "region": "Zor9",
+          "sales": 120
+        },
+        {
+          "region": "Tas2",
+          "sales": 260
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "520",
+      "template": 0
+    },
+    {
+      "iid": "c042",
+      "entity": "Bracmiv-30",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Kep2",
+          "sales": 610
+        },
+        {
+          "region": "Miv5",
+          "sales": 780
+        },
+        {
+          "region": "Tas5",
+          "sales": 540
+        },
+        {
+          "region": "Miv8",
+          "sales": 280
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1150",
+      "template": 1
+    },
+    {
+      "iid": "c043",
+      "entity": "Kepmiv-55",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Miv3",
+          "sales": 470
+        },
+        {
+          "region": "Sim4",
+          "sales": 610
+        },
+        {
+          "region": "Vun3",
+          "sales": 770
+        },
+        {
+          "region": "Sim5",
+          "sales": 140
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1080",
+      "template": 0
+    },
+    {
+      "iid": "c044",
+      "entity": "Quatas-41",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Qua8",
+          "sales": 260
+        },
+        {
+          "region": "Sim6",
+          "sales": 190
+        },
+        {
+          "region": "Vun7",
+          "sales": 420
+        },
+        {
+          "region": "Tas9",
+          "sales": 140
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "330",
+      "template": 0
+    },
+    {
+      "iid": "c045",
+      "entity": "Quazor-89",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Sim4",
+          "sales": 780
+        },
+        {
+          "region": "Kep5",
+          "sales": 480
+        },
+        {
+          "region": "Miv8",
+          "sales": 660
+        },
+        {
+          "region": "Qua2",
+          "sales": 860
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1340",
+      "template": 1
+    },
+    {
+      "iid": "c046",
+      "entity": "Kepkep-25",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Zor3",
+          "sales": 830
+        },
+        {
+          "region": "Kep2",
+          "sales": 350
+        },
+        {
+          "region": "Zor6",
+          "sales": 340
+        },
+        {
+          "region": "Sim5",
+          "sales": 640
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1170",
+      "template": 0
+    },
+    {
+      "iid": "c047",
+      "entity": "Vunqua-87",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Len9",
+          "sales": 160
+        },
+        {
+          "region": "Miv3",
+          "sales": 880
+        },
+        {
+          "region": "Brac7",
+          "sales": 720
+        },
+        {
+          "region": "Brac3",
+          "sales": 400
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1280",
+      "template": 0
+    },
+    {
+      "iid": "c048",
+      "entity": "Tastas-64",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Qua2",
+          "sales": 580
+        },
+        {
+          "region": "Brac3",
+          "sales": 580
+        },
+        {
+          "region": "Tas2",
+          "sales": 190
+        },
+        {
+          "region": "Miv9",
+          "sales": 640
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1160",
+      "template": 1
+    },
+    {
+      "iid": "c049",
+      "entity": "Zorkep-45",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Dro6",
+          "sales": 700
+        },
+        {
+          "region": "Qua5",
+          "sales": 190
+        },
+        {
+          "region": "Miv3",
+          "sales": 280
+        },
+        {
+          "region": "Miv6",
+          "sales": 820
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "470",
+      "template": 1
+    },
+    {
+      "iid": "c050",
+      "entity": "Vunkep-9",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Kep8",
+          "sales": 880
+        },
+        {
+          "region": "Zor7",
+          "sales": 190
+        },
+        {
+          "region": "Len7",
+          "sales": 270
+        },
+        {
+          "region": "Brac8",
+          "sales": 680
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "460",
+      "template": 0
+    },
+    {
+      "iid": "c051",
+      "entity": "Zorlen-63",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Zor6",
+          "sales": 670
+        },
+        {
+          "region": "Miv2",
+          "sales": 830
+        },
+        {
+          "region": "Kep7",
+          "sales": 200
+        },
+        {
+          "region": "Tas8",
+          "sales": 230
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1030",
+      "template": 0
+    },
+    {
+      "iid": "c052",
+      "entity": "Tasvun-49",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Miv7",
+          "sales": 730
+        },
+        {
+          "region": "Brac4",
+          "sales": 500
+        },
+        {
+          "region": "Tas3",
+          "sales": 220
+        },
+        {
+          "region": "Kep9",
+          "sales": 360
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "860",
+      "template": 0
+    },
+    {
+      "iid": "c053",
+      "entity": "Kepvun-91",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Dro5",
+          "sales": 260
+        },
+        {
+          "region": "Miv2",
+          "sales": 780
+        },
+        {
+          "region": "Dro7",
+          "sales": 490
+        },
+        {
+          "region": "Dro4",
+          "sales": 210
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "750",
+      "template": 1
+    },
+    {
+      "iid": "c054",
+      "entity": "Lensim-89",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Zor6",
+          "sales": 350
+        },
+        {
+          "region": "Len5",
+          "sales": 690
+        },
+        {
+          "region": "Brac8",
+          "sales": 890
+        },
+        {
+          "region": "Kep7",
+          "sales": 310
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1040",
+      "template": 0
+    },
+    {
+      "iid": "c055",
+      "entity": "Vunlen-81",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Kep6",
+          "sales": 480
+        },
+        {
+          "region": "Qua7",
+          "sales": 500
+        },
+        {
+          "region": "Tas5",
+          "sales": 710
+        },
+        {
+          "region": "Dro3",
+          "sales": 560
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1210",
+      "template": 0
+    },
+    {
+      "iid": "c056",
+      "entity": "Vunlen-9",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Tas2",
+          "sales": 240
+        },
+        {
+          "region": "Qua3",
+          "sales": 500
+        },
+        {
+          "region": "Dro7",
+          "sales": 650
+        },
+        {
+          "region": "Dro9",
+          "sales": 520
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "760",
+      "template": 1
+    },
+    {
+      "iid": "c057",
+      "entity": "Simmiv-67",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Len7",
+          "sales": 570
+        },
+        {
+          "region": "Miv6",
+          "sales": 400
+        },
+        {
+          "region": "Zor2",
+          "sales": 540
+        },
+        {
+          "region": "Sim7",
+          "sales": 260
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1110",
+      "template": 0
+    },
+    {
+      "iid": "c058",
+      "entity": "Vunqua-32",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Kep2",
+          "sales": 140
+        },
+        {
+          "region": "Kep7",
+          "sales": 230
+        },
+        {
+          "region": "Miv2",
+          "sales": 560
+        },
+        {
+          "region": "Vun4",
+          "sales": 330
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "890",
+      "template": 1
+    },
+    {
+      "iid": "c059",
+      "entity": "Lenzor-22",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Tas7",
+          "sales": 220
+        },
+        {
+          "region": "Miv3",
+          "sales": 490
+        },
+        {
+          "region": "Brac2",
+          "sales": 140
+        },
+        {
+          "region": "Miv9",
+          "sales": 360
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "630",
+      "template": 0
+    },
+    {
+      "iid": "c060",
+      "entity": "Quabrac-11",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Miv8",
+          "sales": 870
+        },
+        {
+          "region": "Miv5",
+          "sales": 350
+        },
+        {
+          "region": "Qua3",
+          "sales": 610
+        },
+        {
+          "region": "Tas4",
+          "sales": 190
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "800",
+      "template": 0
+    },
+    {
+      "iid": "c061",
+      "entity": "Keptas-22",
+      "year": 2023,
+      "rows": [
+        {
+          "region": "Sim8",
+          "sales": 750
+        },
+        {
+          "region": "Sim2",
+          "sales": 210
+        },
+        {
+          "region": "Brac2",
+          "sales": 500
+        },
+        {
+          "region": "Vun6",
+          "sales": 200
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "960",
+      "template": 1
+    },
+    {
+      "iid": "c062",
+      "entity": "Bracbrac-95",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Dro9",
+          "sales": 810
+        },
+        {
+          "region": "Miv5",
+          "sales": 710
+        },
+        {
+          "region": "Qua4",
+          "sales": 690
+        },
+        {
+          "region": "Brac7",
+          "sales": 640
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1400",
+      "template": 1
+    },
+    {
+      "iid": "c063",
+      "entity": "Simkep-68",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Zor4",
+          "sales": 630
+        },
+        {
+          "region": "Vun6",
+          "sales": 830
+        },
+        {
+          "region": "Vun7",
+          "sales": 790
+        },
+        {
+          "region": "Kep2",
+          "sales": 630
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1620",
+      "template": 0
+    },
+    {
+      "iid": "c064",
+      "entity": "Braclen-56",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Len9",
+          "sales": 690
+        },
+        {
+          "region": "Sim3",
+          "sales": 450
+        },
+        {
+          "region": "Sim9",
+          "sales": 540
+        },
+        {
+          "region": "Zor6",
+          "sales": 310
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "990",
+      "template": 1
+    },
+    {
+      "iid": "c065",
+      "entity": "Simmiv-56",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Kep9",
+          "sales": 380
+        },
+        {
+          "region": "Zor2",
+          "sales": 470
+        },
+        {
+          "region": "Vun7",
+          "sales": 640
+        },
+        {
+          "region": "Vun6",
+          "sales": 650
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "850",
+      "template": 0
+    },
+    {
+      "iid": "c066",
+      "entity": "Drovun-80",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Miv6",
+          "sales": 560
+        },
+        {
+          "region": "Vun6",
+          "sales": 510
+        },
+        {
+          "region": "Miv8",
+          "sales": 820
+        },
+        {
+          "region": "Tas4",
+          "sales": 790
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1300",
+      "template": 1
+    },
+    {
+      "iid": "c067",
+      "entity": "Zorbrac-73",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Dro6",
+          "sales": 730
+        },
+        {
+          "region": "Miv2",
+          "sales": 730
+        },
+        {
+          "region": "Tas8",
+          "sales": 820
+        },
+        {
+          "region": "Sim2",
+          "sales": 310
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1040",
+      "template": 1
+    },
+    {
+      "iid": "c068",
+      "entity": "Mivmiv-11",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Sim8",
+          "sales": 860
+        },
+        {
+          "region": "Tas6",
+          "sales": 160
+        },
+        {
+          "region": "Qua6",
+          "sales": 410
+        },
+        {
+          "region": "Dro2",
+          "sales": 540
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "700",
+      "template": 1
+    },
+    {
+      "iid": "c069",
+      "entity": "Tasvun-3",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Miv5",
+          "sales": 430
+        },
+        {
+          "region": "Len6",
+          "sales": 780
+        },
+        {
+          "region": "Vun5",
+          "sales": 410
+        },
+        {
+          "region": "Dro2",
+          "sales": 120
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "900",
+      "template": 1
+    },
+    {
+      "iid": "c070",
+      "entity": "Keptas-39",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Tas7",
+          "sales": 710
+        },
+        {
+          "region": "Kep3",
+          "sales": 560
+        },
+        {
+          "region": "Vun4",
+          "sales": 790
+        },
+        {
+          "region": "Vun9",
+          "sales": 440
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1000",
+      "template": 0
+    },
+    {
+      "iid": "c071",
+      "entity": "Bractas-5",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Sim8",
+          "sales": 750
+        },
+        {
+          "region": "Len3",
+          "sales": 510
+        },
+        {
+          "region": "Qua5",
+          "sales": 530
+        },
+        {
+          "region": "Brac7",
+          "sales": 780
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1040",
+      "template": 0
+    },
+    {
+      "iid": "c072",
+      "entity": "Lensim-39",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Tas5",
+          "sales": 750
+        },
+        {
+          "region": "Dro2",
+          "sales": 130
+        },
+        {
+          "region": "Kep9",
+          "sales": 560
+        },
+        {
+          "region": "Vun6",
+          "sales": 890
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "1450",
+      "template": 0
+    },
+    {
+      "iid": "c073",
+      "entity": "Vunsim-64",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Kep5",
+          "sales": 850
+        },
+        {
+          "region": "Kep3",
+          "sales": 720
+        },
+        {
+          "region": "Kep8",
+          "sales": 840
+        },
+        {
+          "region": "Qua3",
+          "sales": 630
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1350",
+      "template": 1
+    },
+    {
+      "iid": "c074",
+      "entity": "Lendro-14",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Len5",
+          "sales": 260
+        },
+        {
+          "region": "Qua6",
+          "sales": 120
+        },
+        {
+          "region": "Miv7",
+          "sales": 510
+        },
+        {
+          "region": "Miv3",
+          "sales": 290
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "550",
+      "template": 0
+    },
+    {
+      "iid": "c075",
+      "entity": "Mivzor-79",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Sim3",
+          "sales": 460
+        },
+        {
+          "region": "Qua5",
+          "sales": 150
+        },
+        {
+          "region": "Dro9",
+          "sales": 520
+        },
+        {
+          "region": "Qua9",
+          "sales": 530
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "990",
+      "template": 0
+    },
+    {
+      "iid": "c076",
+      "entity": "Tasdro-81",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Vun5",
+          "sales": 520
+        },
+        {
+          "region": "Brac2",
+          "sales": 790
+        },
+        {
+          "region": "Len5",
+          "sales": 500
+        },
+        {
+          "region": "Qua8",
+          "sales": 370
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "1020",
+      "template": 1
+    },
+    {
+      "iid": "c077",
+      "entity": "Bracmiv-66",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Brac9",
+          "sales": 140
+        },
+        {
+          "region": "Sim9",
+          "sales": 140
+        },
+        {
+          "region": "Vun6",
+          "sales": 130
+        },
+        {
+          "region": "Qua2",
+          "sales": 580
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "720",
+      "template": 0
+    },
+    {
+      "iid": "c078",
+      "entity": "Mivmiv-14",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Zor8",
+          "sales": 170
+        },
+        {
+          "region": "Brac7",
+          "sales": 860
+        },
+        {
+          "region": "Vun6",
+          "sales": 350
+        },
+        {
+          "region": "Kep5",
+          "sales": 680
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "850",
+      "template": 1
+    },
+    {
+      "iid": "c079",
+      "entity": "Drokep-68",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Qua7",
+          "sales": 720
+        },
+        {
+          "region": "Tas3",
+          "sales": 760
+        },
+        {
+          "region": "Dro9",
+          "sales": 300
+        },
+        {
+          "region": "Vun3",
+          "sales": 170
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1480",
+      "template": 1
+    },
+    {
+      "iid": "c080",
+      "entity": "Zortas-40",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Zor5",
+          "sales": 310
+        },
+        {
+          "region": "Zor3",
+          "sales": 610
+        },
+        {
+          "region": "Len3",
+          "sales": 180
+        },
+        {
+          "region": "Dro9",
+          "sales": 890
+        }
+      ],
+      "targets": [
+        0,
+        2
+      ],
+      "op": "sum",
+      "gold": "490",
+      "template": 1
+    },
+    {
+      "iid": "c081",
+      "entity": "Kepzor-14",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Dro8",
+          "sales": 400
+        },
+        {
+          "region": "Sim4",
+          "sales": 460
+        },
+        {
+          "region": "Vun9",
+          "sales": 510
+        },
+        {
+          "region": "Len5",
+          "sales": 810
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "1210",
+      "template": 1
+    },
+    {
+      "iid": "c082",
+      "entity": "Vunzor-55",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Miv3",
+          "sales": 380
+        },
+        {
+          "region": "Zor5",
+          "sales": 300
+        },
+        {
+          "region": "Miv7",
+          "sales": 540
+        },
+        {
+          "region": "Vun5",
+          "sales": 700
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "680",
+      "template": 1
+    },
+    {
+      "iid": "c083",
+      "entity": "Zortas-45",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Brac9",
+          "sales": 780
+        },
+        {
+          "region": "Zor2",
+          "sales": 420
+        },
+        {
+          "region": "Qua6",
+          "sales": 480
+        },
+        {
+          "region": "Miv2",
+          "sales": 630
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1050",
+      "template": 0
+    },
+    {
+      "iid": "c084",
+      "entity": "Drokep-59",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Kep4",
+          "sales": 810
+        },
+        {
+          "region": "Sim2",
+          "sales": 820
+        },
+        {
+          "region": "Miv9",
+          "sales": 380
+        },
+        {
+          "region": "Brac5",
+          "sales": 580
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "1200",
+      "template": 1
+    },
+    {
+      "iid": "c085",
+      "entity": "Mivkep-29",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Dro2",
+          "sales": 510
+        },
+        {
+          "region": "Len2",
+          "sales": 630
+        },
+        {
+          "region": "Miv3",
+          "sales": 710
+        },
+        {
+          "region": "Brac5",
+          "sales": 670
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1140",
+      "template": 1
+    },
+    {
+      "iid": "c086",
+      "entity": "Zorkep-61",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Miv3",
+          "sales": 740
+        },
+        {
+          "region": "Tas3",
+          "sales": 340
+        },
+        {
+          "region": "Kep8",
+          "sales": 150
+        },
+        {
+          "region": "Miv2",
+          "sales": 510
+        }
+      ],
+      "targets": [
+        2,
+        3
+      ],
+      "op": "sum",
+      "gold": "660",
+      "template": 0
+    },
+    {
+      "iid": "c087",
+      "entity": "Lenzor-7",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Qua6",
+          "sales": 630
+        },
+        {
+          "region": "Dro2",
+          "sales": 860
+        },
+        {
+          "region": "Kep3",
+          "sales": 740
+        },
+        {
+          "region": "Dro3",
+          "sales": 410
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1490",
+      "template": 0
+    },
+    {
+      "iid": "c088",
+      "entity": "Quazor-83",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Zor6",
+          "sales": 300
+        },
+        {
+          "region": "Vun6",
+          "sales": 840
+        },
+        {
+          "region": "Brac5",
+          "sales": 420
+        },
+        {
+          "region": "Dro3",
+          "sales": 210
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1050",
+      "template": 1
+    },
+    {
+      "iid": "c089",
+      "entity": "Quazor-19",
+      "year": 2021,
+      "rows": [
+        {
+          "region": "Len3",
+          "sales": 440
+        },
+        {
+          "region": "Len8",
+          "sales": 450
+        },
+        {
+          "region": "Dro4",
+          "sales": 270
+        },
+        {
+          "region": "Kep2",
+          "sales": 890
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "720",
+      "template": 0
+    },
+    {
+      "iid": "c090",
+      "entity": "Simdro-41",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Len2",
+          "sales": 120
+        },
+        {
+          "region": "Miv6",
+          "sales": 600
+        },
+        {
+          "region": "Vun2",
+          "sales": 860
+        },
+        {
+          "region": "Kep6",
+          "sales": 390
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "720",
+      "template": 0
+    },
+    {
+      "iid": "c091",
+      "entity": "Lenmiv-96",
+      "year": 2022,
+      "rows": [
+        {
+          "region": "Len5",
+          "sales": 830
+        },
+        {
+          "region": "Sim5",
+          "sales": 680
+        },
+        {
+          "region": "Miv2",
+          "sales": 560
+        },
+        {
+          "region": "Vun8",
+          "sales": 360
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "1510",
+      "template": 1
+    },
+    {
+      "iid": "c092",
+      "entity": "Zorqua-49",
+      "year": 2019,
+      "rows": [
+        {
+          "region": "Qua7",
+          "sales": 530
+        },
+        {
+          "region": "Dro7",
+          "sales": 830
+        },
+        {
+          "region": "Len6",
+          "sales": 870
+        },
+        {
+          "region": "Sim8",
+          "sales": 560
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "1090",
+      "template": 1
+    },
+    {
+      "iid": "c093",
+      "entity": "Tastas-81",
+      "year": 2020,
+      "rows": [
+        {
+          "region": "Len4",
+          "sales": 340
+        },
+        {
+          "region": "Dro7",
+          "sales": 580
+        },
+        {
+          "region": "Kep8",
+          "sales": 410
+        },
+        {
+          "region": "Brac2",
+          "sales": 650
+        }
+      ],
+      "targets": [
+        1,
+        2
+      ],
+      "op": "sum",
+      "gold": "990",
+      "template": 0
+    },
+    {
+      "iid": "c094",
+      "entity": "Quasim-77",
+      "year": 2025,
+      "rows": [
+        {
+          "region": "Kep2",
+          "sales": 550
+        },
+        {
+          "region": "Sim7",
+          "sales": 390
+        },
+        {
+          "region": "Brac5",
+          "sales": 750
+        },
+        {
+          "region": "Sim5",
+          "sales": 390
+        }
+      ],
+      "targets": [
+        0,
+        1
+      ],
+      "op": "sum",
+      "gold": "940",
+      "template": 0
+    },
+    {
+      "iid": "c095",
+      "entity": "Tasvun-99",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Miv5",
+          "sales": 720
+        },
+        {
+          "region": "Sim9",
+          "sales": 650
+        },
+        {
+          "region": "Vun5",
+          "sales": 530
+        },
+        {
+          "region": "Brac4",
+          "sales": 360
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "1080",
+      "template": 0
+    },
+    {
+      "iid": "c096",
+      "entity": "Keplen-61",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Qua5",
+          "sales": 150
+        },
+        {
+          "region": "Zor4",
+          "sales": 770
+        },
+        {
+          "region": "Len3",
+          "sales": 470
+        },
+        {
+          "region": "Dro9",
+          "sales": 450
+        }
+      ],
+      "targets": [
+        0,
+        3
+      ],
+      "op": "sum",
+      "gold": "600",
+      "template": 1
+    },
+    {
+      "iid": "c097",
+      "entity": "Taszor-85",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Kep4",
+          "sales": 620
+        },
+        {
+          "region": "Vun7",
+          "sales": 220
+        },
+        {
+          "region": "Sim3",
+          "sales": 610
+        },
+        {
+          "region": "Zor8",
+          "sales": 520
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "740",
+      "template": 1
+    },
+    {
+      "iid": "c098",
+      "entity": "Zorsim-60",
+      "year": 2024,
+      "rows": [
+        {
+          "region": "Tas5",
+          "sales": 430
+        },
+        {
+          "region": "Zor9",
+          "sales": 860
+        },
+        {
+          "region": "Sim4",
+          "sales": 170
+        },
+        {
+          "region": "Vun6",
+          "sales": 370
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "1230",
+      "template": 0
+    },
+    {
+      "iid": "c099",
+      "entity": "Kepzor-61",
+      "year": 2018,
+      "rows": [
+        {
+          "region": "Vun9",
+          "sales": 310
+        },
+        {
+          "region": "Kep7",
+          "sales": 240
+        },
+        {
+          "region": "Dro3",
+          "sales": 170
+        },
+        {
+          "region": "Zor5",
+          "sales": 180
+        }
+      ],
+      "targets": [
+        1,
+        3
+      ],
+      "op": "sum",
+      "gold": "420",
+      "template": 0
+    }
+  ],
+  "forms": [
+    "orig",
+    "rename",
+    "swap",
+    "paraphrase",
+    "distractor",
+    "table",
+    "perm",
+    "rrename",
+    "both"
+  ]
+}

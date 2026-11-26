@@ -1,0 +1,12 @@
+{"iid": "c000", "model": "deepseek-chat", "condition": "clean", "form": "orig", "answer": "14", "gold": "14", "success": true, "tokens": 124}
+{"iid": "c001", "model": "deepseek-chat", "condition": "clean", "form": "orig", "answer": "23", "gold": "23", "success": true, "tokens": 127}
+{"iid": "c000", "model": "deepseek-chat", "condition": "clean", "form": "rename", "answer": "14", "gold": "14", "success": true, "tokens": 124}
+{"iid": "c001", "model": "deepseek-chat", "condition": "clean", "form": "rename", "answer": "29", "gold": "23", "success": false, "tokens": 127}
+{"iid": "c000", "model": "deepseek-chat", "condition": "clean", "form": "swap", "answer": "14", "gold": "14", "success": true, "tokens": 124}
+{"iid": "c001", "model": "deepseek-chat", "condition": "clean", "form": "swap", "answer": "23", "gold": "23", "success": true, "tokens": 127}
+{"iid": "c000", "model": "deepseek-chat", "condition": "clean", "form": "paraphrase", "answer": "9", "gold": "14", "success": false, "tokens": 128}
+{"iid": "c001", "model": "deepseek-chat", "condition": "clean", "form": "paraphrase", "answer": "29", "gold": "23", "success": false, "tokens": 123}
+{"iid": "c000", "model": "deepseek-chat", "condition": "clean", "form": "distractor", "answer": "17", "gold": "14", "success": false, "tokens": 141}
+{"iid": "c001", "model": "deepseek-chat", "condition": "clean", "form": "distractor", "answer": "27", "gold": "23", "success": false, "tokens": 145}
+{"iid": "c000", "model": "deepseek-chat", "condition": "clean", "form": "table", "answer": "15", "gold": "14", "success": false, "tokens": 133}
+{"iid": "c001", "model": "deepseek-chat", "condition": "clean", "form": "table", "answer": "23", "gold": "23", "success": true, "tokens": 136}

@@ -1,0 +1,12 @@
+# Reproduction of the numeric tables and figures.
+# Everything except plotting and fine-tuning is standard-library only.
+matplotlib>=3.8
+
+# Fine-tuning (`finetune_canary.py train`) and local evaluation (`local_eval.py`).
+# The original runs used recent versions of these libraries; no versions were
+# pinned, so pin them for a fully bit-reproducible environment.
+torch>=2.2
+transformers>=4.44
+peft>=0.12
+datasets>=2.20
+accelerate>=0.33

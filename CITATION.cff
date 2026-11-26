@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these scripts, data or results, please cite the paper."
+title: >-
+  Detecting Data Contamination in Large Language Models: A Comparison of
+  Question-Level and Evidence-Level Perturbations
+authors:
+  - family-names: Chen
+    given-names: Ximing
+    affiliation: "NUIST Waterford Institute, Nanjing University of Information Science and Technology"
+year: 2026
+type: software
+license: MIT
+abstract: >-
+  Code and data for a controlled canary suite that tests whether black-box
+  perturbation invariance detects data contamination in large language models.
+  The release contains the suite generators and validator, the API and local
+  evaluation harnesses, all raw per-item results, and the scripts that regenerate
+  the paper's tables and figures.
+keywords:
+  - data contamination
+  - benchmark contamination
+  - memorisation
+  - black-box evaluation
+  - large language models
+# repository-code: "https://github.com/<account>/<repo>"   # uncomment after publishing
