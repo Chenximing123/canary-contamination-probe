@@ -22,4 +22,4 @@ keywords:
   - memorisation
   - black-box evaluation
   - large language models
-# repository-code: "https://github.com/<account>/<repo>"   # uncomment after publishing
+repository-code: "https://github.com/Chenximing123/canary-contamination-probe"
