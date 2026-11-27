@@ -2,8 +2,8 @@
 
 Code, data and raw logs for the paper
 
-> **Detecting Data Contamination in Large Language Models:**
-> **A Comparison of Question-Level and Evidence-Level Perturbations**
+> **Black-Box Detection of Data Contamination in Large Language Models Using
+> Evidence-Level Perturbations**
 > Ximing Chen, 2026
 
 The repository contains everything needed to regenerate the numeric tables of the
@@ -103,8 +103,8 @@ two commercial controls appear in the paper as vendor A and vendor B; they are
 
 ```bibtex
 @article{chen2026detecting,
-  title  = {Detecting Data Contamination in Large Language Models: A Comparison of
-            Question-Level and Evidence-Level Perturbations},
+  title  = {Black-Box Detection of Data Contamination in Large Language Models
+            Using Evidence-Level Perturbations},
   author = {Chen, Ximing},
   year   = {2026},
   note   = {Preprint}

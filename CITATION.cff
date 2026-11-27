@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use these scripts, data or results, please cite the paper."
 title: >-
-  Detecting Data Contamination in Large Language Models: A Comparison of
-  Question-Level and Evidence-Level Perturbations
+  Black-Box Detection of Data Contamination in Large Language Models Using
+  Evidence-Level Perturbations
 authors:
   - family-names: Chen
     given-names: Ximing
